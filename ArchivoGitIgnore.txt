@@ -1,0 +1,7 @@
+En el archivo .gitignore se le indica a git qué archivos o directorios omitir al momento de hacer
+algún movimiento en el repositorio.
+
+Ejemplo
+HelloWorld.c
+bin/*.class
+*.dll
